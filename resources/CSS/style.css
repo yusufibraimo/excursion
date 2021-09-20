@@ -1,7 +1,7 @@
 body {
     background-color: black;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: fantasy, Geneva, Tahoma, sans-serif;
 }
 
 .header--main {
@@ -11,7 +11,7 @@ body {
 }
 
 .header--secondary {
-    color: #fff;
+    color: white ;
     font-weight: 300;
     font-size: 42px;
 }
